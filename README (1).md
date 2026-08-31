@@ -28,13 +28,13 @@ Para facilitar a interpretação por parte dos tomadores de decisão (Stakeholde
    Um gráfico de dispersão que permite identificar visualmente quais projetos estão na "zona de perigo" (alto risco e alto custo) e quais são as verdadeiras oportunidades (baixo risco e baixo custo).
    
    *(Nota de repositório: Adicione aqui a imagem `dispersao.png` gerada pelo Colab)*
-   > `![Matriz Risco vs Custo](inserir_imagem_aqui.png)`
+   > `![Matriz Risco vs Custo](dispersao.png)
 
 2. **Ranking de Viabilidade:** 
    Um gráfico de barras horizontais ordenando as localidades da maior para a menor pontuação final, indicando de forma incontestável a recomendação do sistema.
    
    *(Nota de repositório: Adicione aqui a imagem `barras.png` gerada pelo Colab)*
-   > `![Ranking de Viabilidade](inserir_imagem_aqui.png)`
+   > `![Ranking de Viabilidade](barras.png)`
 
 ## 🏆 Resultado Final do MVP
 Ao final do processamento, o SSD entrega um ranking claro de recomendação. Baseado nos dados de teste simulando a estrutura do Kaggle, o modelo entregou o seguinte cenário:
